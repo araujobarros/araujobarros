@@ -1,16 +1,15 @@
-### Hi there 👋
+<h1>Desenvolvedor Web Full Stack</h1>
 
-<!--
-**araujobarros/araujobarros** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Linguagens: JavaScript, Java, Python, HTML5, CSS3;
+- Banco de dados: MySql, Postgres e MongoDB;
+- Tecnologias e Frameworks: Spring Boot, React, React Hooks, React Route, ContextAPI, Redux, NodeJs, Sequelize e RTL;
+- Padronização: Princípios S.O.L.I.D, padrão Rest e arquiteturas ORM, MVC e MSC.
+- Deploy: Heroku e FireBase.
 
-Here are some ideas to get you started:
+- Utilizo com mais frequência o Kanban como prática de métodos ágeis utilizando o Trello como ferramenta em meus projetos.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Tento manter meu portifólio atualizado, a maioria dos projetos foram feitos durante o curso de desenvolvedor Web  Full Stack da Trybe.
+
+Posso não ter todo conhecimento, mas sou muito proativo e disposto a aprender novas tecnologias, venho melhorado constantemente minha habilidade de aprender, não só tecnologias como a mim mesmo. Através deste autoconhecimento posso estar em melhoria contínua.
+
+
