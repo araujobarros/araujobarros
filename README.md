@@ -2,9 +2,10 @@
 
 - Linguagens: JavaScript, Java, Python, HTML5, CSS3;
 - Banco de dados: MySql, Postgres e MongoDB;
-- Tecnologias e Frameworks: Spring Boot, React, React Hooks, React Route, ContextAPI, Redux, NodeJs, Sequelize e RTL;
+- Tecnologias e Frameworks: NodeJs, Express, Sequelize, Spring Boot, React, React Hooks, React Route, ContextAPI, Redux e RTL;
 - Padronização: Princípios S.O.L.I.D, padrão Rest e arquiteturas ORM, MVC e MSC.
 - Deploy: Heroku e FireBase.
+- Bibliotecas para estilização: Bulma, Bootstrap, MaterialUI.
 
 - Utilizo com mais frequência o Kanban como prática de métodos ágeis utilizando o Trello como ferramenta em meus projetos.
 
