@@ -1,7 +1,7 @@
 <h1>Desenvolvedor Web Full Stack</h1>
 
 - Linguagens: JavaScript, Java, Python, HTML5, CSS3;
-- Banco de dados: MySql, Postgres e MongoDB;
+- Banco de dados: MySql, PostgreSQL e MongoDB;
 - Tecnologias e Frameworks: NodeJs, Express, Sequelize, Spring Boot, React, React Hooks, React Route, ContextAPI, Redux e RTL;
 - Padronização: Princípios S.O.L.I.D, padrão Rest e arquiteturas ORM, MVC e MSC.
 - Deploy: Heroku e FireBase.
