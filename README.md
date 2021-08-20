@@ -11,6 +11,6 @@
 
 Tento manter meu portifólio atualizado, a maioria dos projetos foram feitos durante o curso de desenvolvedor Web  Full Stack da Trybe.
 
-Posso não ter todo conhecimento, mas sou muito proativo e disposto a aprender novas tecnologias, venho melhorado constantemente minha habilidade de aprender, não só tecnologias como a mim mesmo. Através deste autoconhecimento posso estar em melhoria contínua.
+Posso não ter todo conhecimento, mas sou muito proativo e disposto a aprender novas tecnologias, venho melhorado constantemente minha habilidade de aprender, não só tecnologias como a mim mesmo. Através deste autoconhecimento posso melhorar continuamente.
 
 
